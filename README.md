@@ -27,20 +27,20 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
 <img
   align="left"
   alt="GitHub Stats"
-  height="250"
+  height="230"
   style="padding-right: 20px;"
   src="https://github-readme-stats.vercel.app/api?username=trvzera&theme=dark&include_all_commits=true&show_icons=true&icon_color=fff&border_radius=10&rank_icon=github"
 /><img
   align="left"
   alt="GitHub Stats"
-  height="250"
+  height="230"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvzera&theme=dark&layout=compact"
 />
 <br>
 <img
   align="left"
   alt="GitHub Stats"
-  height="400"
+  height="600"
   style="padding-top: 30px;"
   src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
 />
