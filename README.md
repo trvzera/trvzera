@@ -41,6 +41,6 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
   align="left"
   alt="GitHub Stats"
   height="600"
-  style="padding-top: 30px;"
+  style="margin-top: 100px;"
   src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
 />
