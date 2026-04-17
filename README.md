@@ -36,7 +36,7 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
   align="left"
   alt="GitHub Stats"
   height="270"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvzera&theme=dark&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvzera&theme=dark"
 />
 <br>
 <br>
