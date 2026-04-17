@@ -5,10 +5,18 @@
 **`Front-End Developer`**
 
 Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
-🎓 Pursuing a technical degree in Web & Mobile Development at COTEMIG.
-💡 Passionate about turning code into beautiful digital experiences.
-🚀 Looking for my first opportunity in the tech industry.
 
+- 🎓 Pursuing a technical degree in Web & Mobile Development at COTEMIG.
+- 💡 Passionate about turning code into beautiful digital experiences.
+- 🚀 Looking for my first opportunity in the tech industry.
+
+<img
+  align="center"
+  alt="GitHub Stats"
+  height="400"
+  style="margin-top: 100px;"
+  src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
+/>
 <br>
 
 ---
@@ -50,11 +58,3 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
 />
 <br>
 <br>
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="400"
-  style="margin-top: 100px;"
-  src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
-/>
