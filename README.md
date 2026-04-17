@@ -9,14 +9,6 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
 💡 Passionate about turning code into beautiful digital experiences.
 🚀 Looking for my first opportunity in the tech industry.
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="400"
-  style="margin-top: 100px;"
-  src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
-/>
-
 <br>
 
 ---
@@ -48,7 +40,9 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
   height="230"
   style="padding-right: 20px;"
   src="https://github-readme-stats.vercel.app/api?username=trvzera&theme=dark&include_all_commits=true&show_icons=true&icon_color=fff&border_radius=10&rank_icon=github"
-/><img
+/>
+
+<img
   align="left"
   alt="GitHub Stats"
   height="230"
@@ -56,3 +50,11 @@ Hi, I'm Giovanni! am a 17-year-old developer from Brazil.
 />
 <br>
 <br>
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="400"
+  style="margin-top: 100px;"
+  src="https://music-profile.rayriffy.com/theme/dark.svg?uid=002002.571faf8e4d994df9ac1eb74e40f341b6.1753"
+/>
