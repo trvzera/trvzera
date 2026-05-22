@@ -15,11 +15,61 @@
 <img src="./icon1.gif" width="280" align="left" alt="">
 
 <div align="justify">
-  <h3>Hey — I’m Giovanni</h3>
-  I’m 17, studying Web & Mobile Development at COTEMIG and getting through internship life one commit at a time. I lean hard into minimalist dark themes and interfaces that stay out of the way — clean layout, clear intent, no visual noise for the sake of it (even though this page is all bright and friendly — sorry for the flashbang).
+  <h3>Hey — I'm Giovanni</h3>
+  I'm 17, studying Web & Mobile Development at COTEMIG and getting through internship life one commit at a time. I lean hard into minimalist dark themes and interfaces that stay out of the way — clean layout, clear intent, no visual noise for the sake of it (even though this page is all bright and friendly — sorry for the flashbang).
   <br><br>
-  Off the clock, I’m usually picking up something new, keeping reckless Overwatch teammates alive, or starting games I swear I’ll beat later and parking them in the backlog until “someday” actually shows up. Design and code matter equally to me; most of my best ideas show up with music on and enough time to turn a rough thought into something that actually ships.
+  Off the clock, I'm usually picking up something new, keeping reckless Overwatch teammates alive, or starting games I swear I'll beat later and parking them in the backlog until "someday" actually shows up. Design and code matter equally to me; most of my best ideas show up with music on and enough time to turn a rough thought into something that actually ships.
   <br><br>
+  <br>
+  <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+  <br>
+
+  <div align="center">
+    <h2>Featured Repositories</h2>
+    <p>My best and most useful code — picked so you don't have to dig through the whole profile.</p>
+  </div>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/trvzera/projeto-etapa">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=projeto-etapa&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/trvzera/portfolio">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=portfolio&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/trvzera/Bikcraft">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=Bikcraft&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/trvzera/Attack-On-Titan-API">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=Attack-On-Titan-API&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/trvzera/BIO-TECH-LAB">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=BIO-TECH-LAB&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/trvzera/GroundView">
+            <img width="400" src="https://github-readme-stats-two-beta-28.vercel.app/api/pin/?username=trvzera&repo=GroundView&bg_color=ffffff&title_color=1c1c1e&text_color=696969&hide_border=true&icon_color=696969&description_lines_count=2"/>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
   <br>
   <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
   <br>
@@ -94,5 +144,4 @@
     />
   </p>
 
-</div>
 </div>
