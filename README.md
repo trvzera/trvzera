@@ -16,7 +16,7 @@
 
 <div align="justify">
   <h3>Hey — I'm Giovanni</h3>
-  I'm 17, studying Web & Mobile Development at COTEMIG and getting through internship life one commit at a time. I lean hard into minimalist dark themes and interfaces that stay out of the way — clean layout, clear intent, no visual noise for the sake of it (even though this page is all bright and friendly — sorry for the flashbang).
+  I'm 18, studying Web & Mobile Development at COTEMIG and getting through internship life one commit at a time. I lean hard into minimalist dark themes and interfaces that stay out of the way — clean layout, clear intent, no visual noise for the sake of it (even though this page is all bright and friendly — sorry for the flashbang).
   <br><br>
   Off the clock, I'm usually picking up something new, keeping reckless Overwatch teammates alive, or starting games I swear I'll beat later and parking them in the backlog until "someday" actually shows up. Design and code matter equally to me; most of my best ideas show up with music on and enough time to turn a rough thought into something that actually ships.
   <br><br>
