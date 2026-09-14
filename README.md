@@ -1,5 +1,5 @@
-<a href="https://github.com/Synaptara">
-  <img src="./banner.png" width="100%" alt="Synaptara Banner"/>
+<a href="https://github.com/trvzera">
+  <img src="./banner.png" width="100%" alt="trvzera Banner"/>
 </a>
 
 <div align="center">
