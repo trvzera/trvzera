@@ -93,6 +93,8 @@
 
   <h2 align="center">Statistics</h2>
 
+  <!-- Apple Music widget temporarily hidden: the provider returns HTTP 404,
+       including its homepage. Restore this block when the service is available.
   <h4 align="center">Now Playing</h4>
   <p align="center">
     <img
@@ -103,6 +105,7 @@
   </p>
 
   <br>
+  -->
 
   <table align="center">
     <tr>
@@ -139,8 +142,8 @@
   <h3 align="center">Contribution Graph</h3>
   <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=trvzera&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true"
-      alt="Activity Graph"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trvzera&theme=github"
+      alt="GitHub contribution history and profile summary"
     />
   </p>
 
