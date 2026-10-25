@@ -1,5 +1,5 @@
 <a href="https://github.com/trvzera">
-  <img src="./banner.png" width="100%" alt="trvzera Banner"/>
+  <img src="./frierencoffe.gif" width="100%" alt="Frieren drinking coffee animated banner"/>
 </a>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <h2>About Me</h2>
 </div>
 
-<img src="./icon1.gif" width="280" align="left" alt="">
+<img src="./frieren-sousou-no-frieren-2.gif" width="280" align="left" alt="Frieren animated GIF">
 
 <div align="justify">
   <h3>Hey — I'm Giovanni</h3>
